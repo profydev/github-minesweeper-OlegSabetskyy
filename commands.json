@@ -37,6 +37,8 @@
         "clear c7",
         "clear c8",
         "flag b7",
-        "clear a7"
+        "clear a7",
+        "clear a8",
+        "clear b8"
     ]
 }
